@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 def main():
-    print("Hello, World!")
-    print("こんにちは、世界！")
-    print("Python Hello World プログラムです")
+    print("Hello Japan world!")
+    print("こんにちは日本の世界！")
+    print("Python Hello Japan World プログラムです")
 
 if __name__ == "__main__":
     main()
